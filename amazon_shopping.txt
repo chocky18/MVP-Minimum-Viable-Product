@@ -1,0 +1,27 @@
+Adding product to the cart
+00:05:05 search for amazon.in
+
+00:05:08 click amazon.in
+
+00:05:16 click sign in
+
+00:05:25 Enter email-address "chockynaresh18@gmail.com"
+
+00:05:35 Click Continue
+
+00:05:49 Enter password "8977821555"
+
+00:05:51 Click Sign in
+
+00:05:56 search for ikigai book in english
+
+00:06:00 click the best seller book
+
+00:06:39 click add to Cart
+
+00:06:47 click proceed to buy
+
+00:06:52 close the tab
+
+
+
